@@ -6,7 +6,7 @@ module.exports = ({ env }) => ({
       settings: {
         client: "mongo",
         uri:
-          "mongodb+srv://rahulpariyani:tanmay5@cluster0.5hgv1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+          "mongodb://uzqh7fhwjnrmj3xkmcsf:sALpjEJCIoM7tbsF1mcz@bdfch63bkvoj5yx-mongodb.services.clever-cloud.com:27017/bdfch63bkvoj5yx",
       },
       options: {
         ssl: true,
