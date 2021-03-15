@@ -1,6 +1,6 @@
 const DATABASE_NAME = "bdfch63bkvoj5yx";
 const DATABASE_HOST = "bdfch63bkvoj5yx-mongodb.services.clever-cloud.com";
-const DATABASE_PASSWORD = "uzqh7fhwjnrmj3xkmcsf";
+const DATABASE_PASSWORD = "sALpjEJCIoM7tbsF1mcz";
 const DATABASE_PORT = "27017";
 const MONGODB_ADDON_URI =
   "mongodb://uzqh7fhwjnrmj3xkmcsf:sALpjEJCIoM7tbsF1mcz@bdfch63bkvoj5yx-mongodb.services.clever-cloud.com:27017/bdfch63bkvoj5yx";
